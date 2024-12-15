@@ -1,0 +1,8 @@
+TEXT_1 set car speed to += 2.0
+TEXT_2 set car speed to -= ~R~2.0
+TEXT_3 set car ~R~traffic ~W~to ~Y~2
+TEXT_4 set car traffic to ~B~0
+TEXT_5 set car ~R~stopped 0
+TEXT_6 set car speed to 15.0
+TEXT_7 ~G~rader ~G~On .
+TEXT_8 ~R~rader ~R~Off .
